@@ -22,7 +22,8 @@ const subline = {
             }
             subline.svg[ i ] = draw[ i ].text($('#subline').val().toUpperCase()).fill( 'white' ).move(x, y).font(
                 {
-                    family: 'Futura Condensed Extra Bold',
+                    //family: 'Futura Condensed Extra Bold',
+                    family: 'GrueneTypeNeue',
                     size: 9,
                     anchor: 'left',
                     weight: 300

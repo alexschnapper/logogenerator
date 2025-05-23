@@ -17,7 +17,7 @@ Sharepicgenerator with Docker and Grunt.
 There is also a Makefile. You can use ``make up`` and ``make install``.
 
 ## Usage
-Bring up the project (see above) and head to http://127.0.0.1:9000. The portnumber is defined in the _.env-File_.
+Bring up the project (see above) and head to http://localhost:9100/. The portnumber is defined in the _.env-File_.
 
 ## Projectstructure 
 ### code
